@@ -13,7 +13,7 @@ Tools and components required
 - npm install cfonts
 
   then Running the bot
-  - node index.js
-  - input your reff code(XXXX) and how many reff you want!
+- node index.js
+- input your reff code(XXXX) and how many reff you want!
 
     Full tutorial on here https://t.me/NTExhaust/11
