@@ -16,4 +16,4 @@ Tools and components required
 - node index.js
 - input your reff code(XXXX) and how many reff you want!
 
-    Full tutorial on here https://t.me/NTExhaust/11
+    Full tutorial on here https://t.me/endingdrop
